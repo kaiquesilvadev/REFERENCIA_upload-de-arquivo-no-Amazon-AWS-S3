@@ -128,3 +128,6 @@ public class S3Config {
 	}
 }
 ```
+
+### observação
+Todos os créditos pelo conteúdo deste README bem elaborado são atribuídos à devSuperior."
